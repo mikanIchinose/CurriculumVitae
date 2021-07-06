@@ -1,0 +1,90 @@
+# 名前等
+# date: 令和3年7月6日現在
+name_kana: いちのせ よしひろ
+name: 一瀬 喜弘
+birth_day: 平成8年4月6日
+gender: 男
+cell_phone: 080-8364-5036
+email: maruisansmai@gmail.com
+
+# 住所
+address_kana: とうきょうとちよだくちよだ
+address: 長崎県西彼杵郡長与町嬉里郷697-1
+address_zip: 851-2128
+tel: 095-883-6595
+address2: 同上
+
+# 学歴
+education:
+  - 
+    year: 2012
+    month: 4
+    value: 長崎北陽台高校普通科　入学
+  - 
+    year: 2015
+    month: 3
+    value: 同　卒業
+  - 
+    year: 2015
+    month: 4
+    value: 九州大学工学学部　入学
+  - 
+    year: 2019
+    month: 3
+    value: 同　卒業
+  - 
+    year: 2019
+    month: 4
+    value: 九州大学大学院総合理工学府物質理工学専攻　入学
+  - 
+    year: 2021
+    month: 3
+    value: 同　中退
+
+#職歴
+experience:
+  - 
+    year: 2021
+    month: 3
+    value: カラビナテクノロジー株式会社　入社
+  - 
+    value: 現在にいたる
+
+# 免許・資格
+licences:
+  - 
+    year: 2016
+    month: 5
+    value: 普通自動車免許 取得
+  - 
+    year: 2018
+    month: 6
+    value: TOEFL 44点(TODO: あとで調べる)
+  - 
+    year: 2021
+    month: 3
+    value: 基本情報技術者試験 合格
+
+#通勤時間
+commuting_time:
+
+#扶養家族数(配偶者を除く)
+dependents: 0人
+
+#配偶者の有無
+spouse: なし
+
+#配偶者の扶養義務
+supporting_spouse: なし
+
+#趣味
+hobby: |
+  読書、音楽鑑賞
+
+#志望動機
+motivation: |
+  貴社の事業に共感を持ち、是非ご一緒に働きたいと思います。
+
+# 本人希望記入欄
+request: |
+  貴社の規定に従います。
